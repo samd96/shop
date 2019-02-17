@@ -1,0 +1,10 @@
+{
+  "site_title": "My Shop",
+  "site_tagline": "The best shop in the world",
+  "force_ssl": false,
+  "force_ssl_login": false,
+  "page_base": "/",
+  "shop_base": "/shop/",
+  "account_base": "/account/",
+  "checkout_url": "/shop/checkout/"
+}
